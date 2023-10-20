@@ -1,4 +1,4 @@
 vscode:
   extensions:
     - znck.grammarly
-    - vscoss.vscode-ansible
+    - redhat.vscode-ansible
