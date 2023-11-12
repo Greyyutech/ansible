@@ -2,3 +2,4 @@ vscode:
   extensions:
     - znck.grammarly
     - redhat.ansible
+    - vscode-icons-team.vscode-icons
