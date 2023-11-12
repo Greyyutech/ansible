@@ -1,6 +1,7 @@
 #ref: https://github.com/fortinet-ansible-dev/ansible-galaxy-fortios-collection/issues/186
 #ref: search backup keywork https://ansible-galaxy-fortios-docs.readthedocs.io/en/latest/release.html
-- connection: httpapi
+- hosts: all
+  connection: httpapi
   collections:
   - fortinet.fortios
   vars:
